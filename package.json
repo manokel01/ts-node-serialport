@@ -1,0 +1,20 @@
+{
+  "name": "ts-node-serial",
+  "version": "1.0.0",
+  "description": "read, write data from serial port",
+  "main": "ts-serial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serial",
+    "port",
+    "csv",
+    "inputstream"
+  ],
+  "author": "manokel01",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^10.5.0"
+  }
+}
